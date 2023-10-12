@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL Server 2022">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="(local)\sql2022:DESKTOP-C98P9CN\tkans">
+          <Created>2023-05-08T11:56:59.9468794+02:00</Created>
+          <Type>SQL</Type>
+          <Server>(local)\sql2022</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="tcp:localhost,2022:sa">
+          <Created>2023-02-05T22:17:43.9271315+01:00</Created>
+          <Type>SQL</Type>
+          <Server>tcp:localhost,2022</Server>
+          <UserName>sa</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="APPROX_PERCENTILE.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>APPROX_PERCENTILE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Bit Operations.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Bit Operations.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DATE_BUCKET.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:tcp:localhost,2022:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>tcp:localhost,2022</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>DATE_BUCKET.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DATETRUNC .sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:tcp:localhost,2022:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>tcp:localhost,2022</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>DATETRUNC .sql</FullPath>
+        </FileNode>
+        <FileNode Name="Dynamic Data Masking.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:tcp:localhost,2022:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>tcp:localhost,2022</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>Dynamic Data Masking.sql</FullPath>
+        </FileNode>
+        <FileNode Name="FIRST_VALUE LAST_VALUE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:tcp:localhost,2022:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>tcp:localhost,2022</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>FIRST_VALUE LAST_VALUE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="GENERATE_SERIES.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:tcp:localhost,2022:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>tcp:localhost,2022</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>GENERATE_SERIES.sql</FullPath>
+        </FileNode>
+        <FileNode Name="GREATEST_LEAST.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:tcp:localhost,2022:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>tcp:localhost,2022</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>GREATEST_LEAST.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Improved backup metadata.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Improved backup metadata.sql</FullPath>
+        </FileNode>
+        <FileNode Name="IS [NOT] DISTINCT FROM.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>IS [NOT] DISTINCT FROM.sql</FullPath>
+        </FileNode>
+        <FileNode Name="JSON.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:tcp:localhost,2022:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>tcp:localhost,2022</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>JSON.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Ledger.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Ledger.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Ledger_Views.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Ledger_Views.sql</FullPath>
+        </FileNode>
+        <FileNode Name="STATISTICS WITH AUTO_DROP.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:tcp:localhost,2022:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>tcp:localhost,2022</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>STATISTICS WITH AUTO_DROP.sql</FullPath>
+        </FileNode>
+        <FileNode Name="STRING_SPLIT.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>STRING_SPLIT.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Trim.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\sql2022:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\sql2022</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Trim.sql</FullPath>
+        </FileNode>
+        <FileNode Name="WAIT_AT_LOW_PRIORITY.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\sql2022:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\sql2022</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>WAIT_AT_LOW_PRIORITY.sql</FullPath>
+        </FileNode>
+        <FileNode Name="WINDOW Klausel.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\sql2022:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\sql2022</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>WINDOW Klausel.sql</FullPath>
+        </FileNode>
+        <FileNode Name="XML Compression.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:tcp:localhost,2022:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>tcp:localhost,2022</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>XML Compression.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
