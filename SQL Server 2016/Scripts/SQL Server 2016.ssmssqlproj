@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL Server 2016">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="(localdb)\mssqllocaldb:DESKTOP-C98P9CN\tkans">
+          <Created>2023-05-08T12:05:45.5832452+02:00</Created>
+          <Type>SQL</Type>
+          <Server>(localdb)\mssqllocaldb</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Always Encrypted.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Always Encrypted.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ClusterColumnStoreIndex.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ClusterColumnStoreIndex.sql</FullPath>
+        </FileNode>
+        <FileNode Name="CreateOrAlter.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CreateOrAlter.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DropIfExists.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DropIfExists.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Dynamic Data Masking.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Dynamic Data Masking.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Json.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Json.sql</FullPath>
+        </FileNode>
+        <FileNode Name="LiveStatistics.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>LiveStatistics.sql</FullPath>
+        </FileNode>
+        <FileNode Name="QueryStore.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>QueryStore.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Row Level Security.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Row Level Security.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SessionContext.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SessionContext.sql</FullPath>
+        </FileNode>
+        <FileNode Name="String_Split.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>String_Split.sql</FullPath>
+        </FileNode>
+        <FileNode Name="System Versioned Tables.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>System Versioned Tables.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
