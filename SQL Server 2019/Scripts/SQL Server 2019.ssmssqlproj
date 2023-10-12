@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL Server 2019">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="(localdb)\mssqllocaldb:SMALLK\tkans">
+          <Created>2022-09-24T16:46:45.9827733+02:00</Created>
+          <Type>SQL</Type>
+          <Server>(localdb)\mssqllocaldb</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="00 dotnetconsulting_Videogames.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>00 dotnetconsulting_Videogames.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03a Row mode memory grant feedback.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03a Row mode memory grant feedback.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03b Batch mode on rowstore.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03b Batch mode on rowstore.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03c Table variable deferred compilation.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03c Table variable deferred compilation.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03d APPROX_COUNT_DISTINCT.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>03d APPROX_COUNT_DISTINCT.sql</FullPath>
+        </FileNode>
+        <FileNode Name="03e Inline Scalar UDF.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>03e Inline Scalar UDF.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04a Memory-optimized TempDB metadata.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>04a Memory-optimized TempDB metadata.sql</FullPath>
+        </FileNode>
+        <FileNode Name="04c Hybrid Buffer Pool.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>04c Hybrid Buffer Pool.sql</FullPath>
+        </FileNode>
+        <FileNode Name="05a SequentialIndex.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>05a SequentialIndex.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06a Graph Shortest_Path.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>06a Graph Shortest_Path.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06b Graph Connect.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>06b Graph Connect.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06c Graph Merge.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>06c Graph Merge.sql</FullPath>
+        </FileNode>
+        <FileNode Name="09a Truncated Data.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>09a Truncated Data.sql</FullPath>
+        </FileNode>
+        <FileNode Name="09c Lightweight_Query_Profiling .sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>09c Lightweight_Query_Profiling .sql</FullPath>
+        </FileNode>
+        <FileNode Name="09d Page Info.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>09d Page Info.sql</FullPath>
+        </FileNode>
+        <FileNode Name="09e Indizies.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>09e Indizies.sql</FullPath>
+        </FileNode>
+        <FileNode Name="09f Always Encrypted with secure enclaves.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>09f Always Encrypted with secure enclaves.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

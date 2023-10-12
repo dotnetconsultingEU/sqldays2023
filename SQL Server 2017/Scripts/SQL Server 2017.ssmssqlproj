@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL Server 2017">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="(localdb)\mssqllocaldb:DESKTOP-C98P9CN\tkans">
+          <Created>2022-09-24T16:45:44.1132194+02:00</Created>
+          <Type>SQL</Type>
+          <Server>(localdb)\mssqllocaldb</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="01 Graph.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>01 Graph.sql</FullPath>
+        </FileNode>
+        <FileNode Name="10 TRIM.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>10 TRIM.sql</FullPath>
+        </FileNode>
+        <FileNode Name="11 CONCAT_WS.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>11 CONCAT_WS.sql</FullPath>
+        </FileNode>
+        <FileNode Name="12 TRANSLATE.sql.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>12 TRANSLATE.sql.sql</FullPath>
+        </FileNode>
+        <FileNode Name="13 STRING_AGG.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>13 STRING_AGG.sql</FullPath>
+        </FileNode>
+        <FileNode Name="20 In Memory-OLTP.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>20 In Memory-OLTP.sql</FullPath>
+        </FileNode>
+        <FileNode Name="30 Automatic Tuning.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>30 Automatic Tuning.sql</FullPath>
+        </FileNode>
+        <FileNode Name="40 System-Versioned.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>40 System-Versioned.sql</FullPath>
+        </FileNode>
+        <FileNode Name="50 CLR Integration.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\mssqllocaldb:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\mssqllocaldb</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>50 CLR Integration.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
